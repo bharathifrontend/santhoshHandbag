@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-dark .nav-link {
+  color: black;
+  font-size: 15px;
+  font-weight: bold; /* Set the text color to white */
+}
+.nav-dark .nav-link:hover {
+  color: rgb(243, 10, 10); /* Change the text color to yellow on hover */
+}
